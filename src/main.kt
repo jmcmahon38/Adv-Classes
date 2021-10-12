@@ -4,8 +4,8 @@ fun main() {
     var emp3 = Employee("jason", PositionTitle.PRODUCTION, false, 20.50, 3)
 
     emp1.hoursIn(50.00)
-    println(emp2.hoursIn(25.00))
-    println(emp3.hoursIn(60.00))
+    emp2.hoursIn(25.00))
+    emp3.hoursIn(60.00))
 }
 
 //notes
